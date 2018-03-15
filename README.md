@@ -13,7 +13,7 @@ AI开发者平台。
 
 ③ WebRTC采集视频图像并调用API进行智能化数据标注，训练完成之后进行自动化测试。[正在开发中]
 
-
+了解更多请查看
 部分演示：
 
 
@@ -45,6 +45,11 @@ AI开发者平台。
 
 
 # 开发助手
+
+## 图像采集或实时测试算法
+![image](https://github.com/herozhou/AI-platform/blob/master/static/ar.gif?raw=true)
+
+
 ## 数据标注
 ![image](https://github.com/herozhou/AI-platform/blob/master/static/datalabel.gif?raw=true)
 
