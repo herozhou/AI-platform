@@ -1,6 +1,8 @@
 # AI-platform
 AI开发者平台。
 
+![image](https://github.com/herozhou/AI-platform/blob/master/static/bg1.jpg?raw=true)
+
 初衷同样来源于实习时对一些公司中存在问题以及如何提高AI工程师效率的思考。
 
 技术上：前端使用 Vue 生态圈搭建界面及逻辑，后端使用 Express 配合各类开源功能模块提供服务，因需要存储大量 JSON 数据故采用 MongoDB 作为数据库，使用 TensorFlow 作为用户代码运行环境。
